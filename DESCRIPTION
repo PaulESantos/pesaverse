@@ -43,3 +43,5 @@ VignetteBuilder:
     knitr
 Encoding: UTF-8
 RoxygenNote: 7.1.2
+URL: https://github.com/PaulESantos/pesaverse
+BugReports: https://github.com/PaulESantos/pesaverse/issues
