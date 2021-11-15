@@ -10,6 +10,14 @@
 
 A list of packages I use frequently, easily attaching in the 'pesaverse' package. This is a better option than editing the .Rprofile to guarantee reproducibility, moreover, this gives information about the list of attached packages and their versions. This is directly inspired by Hadley Wickham's 'tidyverse' package and borrows some of its code and look.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/PaulESantos/pesaverse}
+  \item Report bugs at \url{https://github.com/PaulESantos/pesaverse/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Paul Efren Santos Andrade \email{paulefrens@gmail.com}
 

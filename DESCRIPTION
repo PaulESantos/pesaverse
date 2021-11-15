@@ -20,7 +20,7 @@ Imports:
     lubridate (>= 1.7.10),
     magrittr (>= 2.0.1),
     poorman,
-    modelr (>= 0.1.8),
+    janitor,
     purrr (>= 0.3.4),
     readr (>= 1.4.0),
     readxl (>= 1.3.1),
@@ -31,7 +31,7 @@ Imports:
     tibble (>= 3.1.0),
     tidyr (>= 1.1.3),
     xml2 (>= 1.3.2),
-    janitor
+    modelr
 Suggests: 
     covr,
     feather,
