@@ -1,4 +1,4 @@
-core <- c("ggplot2", "tibble", "tidyr", "readr",
+core <- c("ggplot2", "tibble", "tidyr", "readr", "readxl", "here",
           "purrr", "poorman", "stringr", "forcats", "janitor")
 
 core_unloaded <- function() {
@@ -24,7 +24,7 @@ pesaverse_attach <- function() {
   msg(
     cli::rule(
       left = crayon::bold("Attaching packages"),
-      right = paste0("pesaverse ", pkg_version("pesaverse"))
+      right = paste0("myverse ", pkg_version("pesaverse"))
     ),
     startup = TRUE
   )
